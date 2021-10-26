@@ -1,0 +1,15 @@
+C:\Users\jeanm\source\repos\Curso CleanCode\CleanArcMvc\CleanArcMvc.Application\bin\Debug\net5.0\CleanArcMvc.Application.deps.json
+C:\Users\jeanm\source\repos\Curso CleanCode\CleanArcMvc\CleanArcMvc.Application\bin\Debug\net5.0\CleanArcMvc.Application.dll
+C:\Users\jeanm\source\repos\Curso CleanCode\CleanArcMvc\CleanArcMvc.Application\bin\Debug\net5.0\ref\CleanArcMvc.Application.dll
+C:\Users\jeanm\source\repos\Curso CleanCode\CleanArcMvc\CleanArcMvc.Application\bin\Debug\net5.0\CleanArcMvc.Application.pdb
+C:\Users\jeanm\source\repos\Curso CleanCode\CleanArcMvc\CleanArcMvc.Application\bin\Debug\net5.0\CleanArcMvc.Domain.dll
+C:\Users\jeanm\source\repos\Curso CleanCode\CleanArcMvc\CleanArcMvc.Application\bin\Debug\net5.0\CleanArcMvc.Domain.pdb
+C:\Users\jeanm\source\repos\Curso CleanCode\CleanArcMvc\CleanArcMvc.Application\obj\Debug\net5.0\CleanArcMvc.Application.csproj.AssemblyReference.cache
+C:\Users\jeanm\source\repos\Curso CleanCode\CleanArcMvc\CleanArcMvc.Application\obj\Debug\net5.0\CleanArcMvc.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jeanm\source\repos\Curso CleanCode\CleanArcMvc\CleanArcMvc.Application\obj\Debug\net5.0\CleanArcMvc.Application.AssemblyInfoInputs.cache
+C:\Users\jeanm\source\repos\Curso CleanCode\CleanArcMvc\CleanArcMvc.Application\obj\Debug\net5.0\CleanArcMvc.Application.AssemblyInfo.cs
+C:\Users\jeanm\source\repos\Curso CleanCode\CleanArcMvc\CleanArcMvc.Application\obj\Debug\net5.0\CleanArcMvc.Application.csproj.CoreCompileInputs.cache
+C:\Users\jeanm\source\repos\Curso CleanCode\CleanArcMvc\CleanArcMvc.Application\obj\Debug\net5.0\CleanArcMvc.Application.csproj.CopyComplete
+C:\Users\jeanm\source\repos\Curso CleanCode\CleanArcMvc\CleanArcMvc.Application\obj\Debug\net5.0\CleanArcMvc.Application.dll
+C:\Users\jeanm\source\repos\Curso CleanCode\CleanArcMvc\CleanArcMvc.Application\obj\Debug\net5.0\ref\CleanArcMvc.Application.dll
+C:\Users\jeanm\source\repos\Curso CleanCode\CleanArcMvc\CleanArcMvc.Application\obj\Debug\net5.0\CleanArcMvc.Application.pdb

@@ -1,0 +1,64 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "CleanArcMvc.Infra.IoC/1.0.0": {
+        "dependencies": {
+          "CleanArcMvc.Application": "1.0.0",
+          "CleanArcMvc.Domain": "1.0.0",
+          "CleanArcMvc.Infra.Data": "1.0.0"
+        },
+        "runtime": {
+          "CleanArcMvc.Infra.IoC.dll": {}
+        }
+      },
+      "CleanArcMvc.Application/1.0.0": {
+        "dependencies": {
+          "CleanArcMvc.Domain": "1.0.0"
+        },
+        "runtime": {
+          "CleanArcMvc.Application.dll": {}
+        }
+      },
+      "CleanArcMvc.Domain/1.0.0": {
+        "runtime": {
+          "CleanArcMvc.Domain.dll": {}
+        }
+      },
+      "CleanArcMvc.Infra.Data/1.0.0": {
+        "dependencies": {
+          "CleanArcMvc.Domain": "1.0.0"
+        },
+        "runtime": {
+          "CleanArcMvc.Infra.Data.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CleanArcMvc.Infra.IoC/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CleanArcMvc.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CleanArcMvc.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CleanArcMvc.Infra.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

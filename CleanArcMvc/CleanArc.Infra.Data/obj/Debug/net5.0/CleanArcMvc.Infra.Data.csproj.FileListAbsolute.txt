@@ -1,0 +1,15 @@
+C:\Users\jeanm\source\repos\Curso CleanCode\CleanArcMvc\CleanArc.Infra.Data\bin\Debug\net5.0\CleanArcMvc.Infra.Data.deps.json
+C:\Users\jeanm\source\repos\Curso CleanCode\CleanArcMvc\CleanArc.Infra.Data\bin\Debug\net5.0\CleanArcMvc.Infra.Data.dll
+C:\Users\jeanm\source\repos\Curso CleanCode\CleanArcMvc\CleanArc.Infra.Data\bin\Debug\net5.0\ref\CleanArcMvc.Infra.Data.dll
+C:\Users\jeanm\source\repos\Curso CleanCode\CleanArcMvc\CleanArc.Infra.Data\bin\Debug\net5.0\CleanArcMvc.Infra.Data.pdb
+C:\Users\jeanm\source\repos\Curso CleanCode\CleanArcMvc\CleanArc.Infra.Data\bin\Debug\net5.0\CleanArcMvc.Domain.dll
+C:\Users\jeanm\source\repos\Curso CleanCode\CleanArcMvc\CleanArc.Infra.Data\bin\Debug\net5.0\CleanArcMvc.Domain.pdb
+C:\Users\jeanm\source\repos\Curso CleanCode\CleanArcMvc\CleanArc.Infra.Data\obj\Debug\net5.0\CleanArcMvc.Infra.Data.csproj.AssemblyReference.cache
+C:\Users\jeanm\source\repos\Curso CleanCode\CleanArcMvc\CleanArc.Infra.Data\obj\Debug\net5.0\CleanArcMvc.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jeanm\source\repos\Curso CleanCode\CleanArcMvc\CleanArc.Infra.Data\obj\Debug\net5.0\CleanArcMvc.Infra.Data.AssemblyInfoInputs.cache
+C:\Users\jeanm\source\repos\Curso CleanCode\CleanArcMvc\CleanArc.Infra.Data\obj\Debug\net5.0\CleanArcMvc.Infra.Data.AssemblyInfo.cs
+C:\Users\jeanm\source\repos\Curso CleanCode\CleanArcMvc\CleanArc.Infra.Data\obj\Debug\net5.0\CleanArcMvc.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\jeanm\source\repos\Curso CleanCode\CleanArcMvc\CleanArc.Infra.Data\obj\Debug\net5.0\CleanArcMvc.Infra.Data.csproj.CopyComplete
+C:\Users\jeanm\source\repos\Curso CleanCode\CleanArcMvc\CleanArc.Infra.Data\obj\Debug\net5.0\CleanArcMvc.Infra.Data.dll
+C:\Users\jeanm\source\repos\Curso CleanCode\CleanArcMvc\CleanArc.Infra.Data\obj\Debug\net5.0\ref\CleanArcMvc.Infra.Data.dll
+C:\Users\jeanm\source\repos\Curso CleanCode\CleanArcMvc\CleanArc.Infra.Data\obj\Debug\net5.0\CleanArcMvc.Infra.Data.pdb
