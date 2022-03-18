@@ -11,11 +11,11 @@ namespace CleanArcMvc.WebUI.Controllers
         {
             _productService = productService;
         }
-
+        [HttpGet]
         public async Task<IActionResult> Index()
         {
-            var result = await _productService.GetProductDTOs();
-            return View(result);
+            var products = await _productService.GetProductDTOs();
+            return View(products);
         }
     }
 }

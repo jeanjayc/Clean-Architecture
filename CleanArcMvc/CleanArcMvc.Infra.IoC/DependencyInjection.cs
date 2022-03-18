@@ -20,9 +20,12 @@ namespace CleanArcMvc.Infra.IoC
         public static IServiceCollection AddInfra (this IServiceCollection services,
             IConfiguration configuration)
         {
+            //services.AddDbContext<ApplicationDbContext>(options =>
+            //options.UseSqlServer(configuration.GetConnectionString("DefaultConnection"),
+            //b => b.MigrationsAssembly(typeof(ApplicationDbContext).Assembly.FullName))); //Metodo que irá definir onde as migracoes serao mantidas
+
             services.AddDbContext<ApplicationDbContext>(options =>
-            options.UseSqlServer(configuration.GetConnectionString("DefaultConnection"),
-            b => b.MigrationsAssembly(typeof(ApplicationDbContext).Assembly.FullName))); //Metodo que irá definir onde as migracoes serao mantidas
+            options.UseInMemoryDatabase("DatabaseInMemory"));
 
             services.AddScoped<ICategoryRepository, CategoryRepository>();
             services.AddScoped<IProductRepository, ProductRepository>();
